@@ -352,6 +352,7 @@ Arnel Forbes
 - [Saurabh Biyani](https://github.com/saurabh119)
 - [Jennifer Norby](https://github.com/jgnorby)
   [Patrick Bate](https://github.com/pbateman828)
+- [Ebony Seabridge](https://github.com/ebony-seabridge)
 - [Heinrich Tremblay](https://github.com/HeinrichTremblay)
 - [DP Gerber](https://github.com/dpgerber)
 - [souragc](https://github.com/souragc)
