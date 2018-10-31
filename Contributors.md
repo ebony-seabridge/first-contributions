@@ -170,6 +170,7 @@ Arnel Forbes
 - [Ece Mac](https://github.com/ecemac)
 - [Dave Martinez](https://github.com/dave-martinez)
 - [Priyal Narang](https://github.com/PriyalNarang)
+- [Ebony Seabridge](https://github.com/ebony-seabridge)
 - [Malik Mahmud](https://github.com/MlkMahmud)
 - [Ana-Cosmina Popescu](https://github.com/anacosmina)
 - [Lohit Peesapati](https://github.com/l0h1t)
